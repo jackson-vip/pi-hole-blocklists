@@ -1,0 +1,10 @@
+# YouTube Blocklist
+# Bloqueio de dominios e subdominios do YouTube
+
+||youtube.com^
+||googlevideo.com^
+||ytimg.com^
+||youtu.be^
+||youtube-nocookie.com^
+||youtubei.googleapis.com^
+||youtube.googleapis.com^

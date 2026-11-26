@@ -8,3 +8,12 @@
 ||youtube-nocookie.com^
 ||youtubei.googleapis.com^
 ||youtube.googleapis.com^
+||youtubekids.com^
+||youtubeeducation.com^
+||youtubeembeddedplayer.googleapis.com^
+||youtube-ui.l.google.com^
+||youtubei.l.google.com^
+||yt-video-upload.l.google.com^
+||ytimg.l.google.com^
+||ytstatic.l.google.com^
+||wide-youtube.l.google.com^

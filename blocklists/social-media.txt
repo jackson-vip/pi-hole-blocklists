@@ -1,0 +1,3 @@
+# Social Media
+# Block social media domains
+# Example: facebook.com
